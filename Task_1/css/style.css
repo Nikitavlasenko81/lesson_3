@@ -1,0 +1,23 @@
+body{
+    background: url("https://html.sammy-codes.com/images/background.jpg");
+}
+p{
+    font-weight: bold;
+    letter-spacing: 5px;
+    font-size: 100%;
+}
+.red{
+    color: #DC143C;
+}
+.green{
+    color: green;
+}
+.blue{
+    color: rgb(70, 130, 180);
+}
+.orange{
+    color: hsl(51, 100%, 50%);
+}
+.opacity{
+    color: rgba(75, 0, 130, 0.5);
+}

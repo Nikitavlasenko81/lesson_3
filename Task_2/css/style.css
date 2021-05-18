@@ -1,0 +1,18 @@
+.way-1{
+    color: blue;
+}
+.way-2{
+    color: #0000FF;
+}
+.way-3{
+    color: rgb(0, 0, 255);
+}
+.way-4{
+    color: rgba(0, 0, 255,0.5);
+}
+body{
+    opacity: 0.3;
+}
+body{
+    background: rgba(205, 214, 219, 0.3);
+}

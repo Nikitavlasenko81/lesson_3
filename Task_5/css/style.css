@@ -1,0 +1,6 @@
+p{
+    text-transform: capitalize;
+}
+.decoration{
+    text-decoration: underline overline line-through;
+}
